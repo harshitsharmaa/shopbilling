@@ -1,0 +1,1 @@
+This is a C++ program that presents a supermarket management system with Administrator and Buyer roles. It utilizes classes and file handling for functionalities like adding, editing and removing products from the inventory. Buyers can generate a receipt for their purchases. The program operates with a menu interface and utilizes a text file for storing product details.
